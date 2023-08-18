@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    
+
+}
+
+.money-chart {
+    width: 35%;
+    margin-left: 5%;
+}
+
+.my-img {
+    padding: 50px;
+}
